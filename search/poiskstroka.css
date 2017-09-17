@@ -1,0 +1,22 @@
+
+.search_area {
+    padding-left: 350px;
+    padding-top: 250px;
+    font-size: 30px;
+}
+#search_box {
+    width: 600px;
+    height: 40px;
+    background-color:#d5dce0;
+    border-radius: 6px;
+   
+    
+}
+#submit {
+    height: 40px;
+    width: 90px;
+    border-radius: 6px;
+    background-color: #f8540b;
+    font-size: 15px;
+    
+}
